@@ -28,7 +28,7 @@ filetype plugin indent on
 
 
 " Load config files
-source ./config/mappings.vim
-source ./config/theme.vim
-source ./config/plugins.vim
+source $HOME/.vim/config/mappings.vim
+source $HOME/.vim/config/theme.vim
+source $HOME/.vim/config/plugins.vim
 
