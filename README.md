@@ -8,7 +8,7 @@ Nice VIM editor configuration
   git clone git@github.com:MarcoMacedoP/vim-config.git ~/.vim
 ```
 
-- Open $HOME/.vimrc (Or create it) and add the following code:
+- Open ~/.vimrc (Or create it) and add the following code:
 ```
     source ~/.vim/init.vim 
 ```
