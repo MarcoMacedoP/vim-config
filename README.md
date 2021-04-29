@@ -2,16 +2,15 @@
 Nice VIM editor configuration
 
 ## Installation
-- Clone project in $HOME/.vim (Directory .vim should be empty
+- Clone project in ~/.vim (directory should be empty)
 
 ```
-  git clone git@github.com:MarcoMacedoP/vim-config.git $HOME/.vim
+  git clone git@github.com:MarcoMacedoP/vim-config.git ~/.vim
 ```
 
 - Open $HOME/.vimrc (Or create it) and add the following code:
 ```
-    source ~/.vim/init.vim
-    
+    source ~/.vim/init.vim 
 ```
 - Open a VIM instance and execute
 ```
@@ -20,5 +19,4 @@ Nice VIM editor configuration
 - Install your required language servers with CoC, for example:
 ```
 :CocInstall coc-json coc-tsserver
-
 ```
